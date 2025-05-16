@@ -1,0 +1,5 @@
+my_name = input('Digite seu nome: ')
+print(f'Nice to meet you, {my_name}')
+print(f'Yours lenght name is {(len(my_name))}')
+my_age = int(input('Your age?'))
+print(f'In 1 year you will be {my_age + 1} years old')
